@@ -1,1 +1,1 @@
-# My-traiding-platform
+# My-trading-platform
